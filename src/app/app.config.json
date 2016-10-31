@@ -2,8 +2,8 @@
 	"appname": "ybor",
 	"scope": "BuyerAdmin BuyerReader FullAccess",
 	"clientid": "32F97DD5-3E32-4CB7-A3E1-16A72E4E4633",
-	"buyerid": null,
-	"catalogid": null,
+	"buyerid": "test",
+	"catalogid": "451",
 	"environment": "prod",
 	"anonymous": false,
 	"base": {
